@@ -46,12 +46,12 @@ cp signatures/_template.md signatures/<your-github-username>.md
 Then open it and fill it in:
 
 ```markdown
-# Your Name
+# SUJAL SWARAJ
 
-- **GitHub:** @your-github-username
+- **GitHub:** @sujalswaraj-lab
 - **Batch:** 2026
-- **I'm here to:** one honest line about what you want from open source
-- **One thing I've built:** a link, or "nothing yet" — both are fine
+- **I'm here to:** LEARN TO BUILD REAL LIFE PROJECTS 
+- **One thing I've built:** A SIMPLE WORKING CALCULATOR
 ```
 
 The two things most people get wrong:
